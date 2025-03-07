@@ -124,7 +124,7 @@ Para mais detalhes sobre a licença: [clique aqui](.github/LICENSE)
 
 ## Autor
 
-<div align="center"> <img src="https://github.com/professor-wanderson-timoteo.png" width="100px" height="100px" style="border-radius: 50%"/> 
+<div align="center"> <img src="https://github.com/susyfs.png" width="100px" height="100px" style="border-radius: 50%"/> 
 
 <br> 
 
